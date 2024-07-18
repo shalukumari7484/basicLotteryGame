@@ -1,0 +1,12 @@
+.Ticket{
+    border: 2px solid rgb(17, 1, 17);
+    border-radius: 20px;
+    width: 300px;
+    margin-bottom: 15px;
+    background-color: rgb(193, 165, 194);
+}
+
+h3{
+    text-align: center;
+    color: black;
+}
